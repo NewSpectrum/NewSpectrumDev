@@ -43,7 +43,7 @@ idk 🤷‍♂️ lol<br />(I haven't gotten to this yet)
 
 | Skillset | Description |
 |----------|-------------|
-| __Information Technologies__ | ➊ System Builds<br /><br /><pre>  • Desktops<br />    ◦ Windows<br />    ◦ Linux<br />    ◦ MacOS<br />      ·*"Cannibalized"*<br />       *(no "Hackintosh" builds)*<br />  • Servers<br />    ◦ Regarding hardware<br />      (see Enterprise IT below for<br />      details on server management)</pre><br /> |
+| __Information Technologies__ | ➊ System Builds<br /><pre>  • Desktops<br />    ◦ Windows<br />    ◦ Linux<br />    ◦ MacOS<br />      ·*"Cannibalized"*<br />       *(no "Hackintosh" builds)*<br />  • Servers<br />    ◦ Regarding hardware<br />      (see Enterprise IT below for<br />      details on server management)</pre><br /> |
 
 
 <br />
