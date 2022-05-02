@@ -31,7 +31,7 @@ idk 🤷‍♂️ lol<br />(I haven't gotten to this yet)
 
 <br />
 
-## My Background
+### My Background
 
 {insert thrilling mini-autobiography}
 
@@ -43,7 +43,7 @@ idk 🤷‍♂️ lol<br />(I haven't gotten to this yet)
 
 | Skillset | Description |
 |----------|-------------|
-| I can do lots of ✨fancy✨ things | (I haven't gotten to this yet either) |
+| __Information Technologies__ | ➊ System Builds<br /><br /><pre>  • Desktops<br />    ◦ Windows<br />    ◦ Linux<br />    ◦ MacOS<br />      ·*"Cannibalized"*<br />       *(no "Hackintosh" builds)*<br />  • Servers<br />    ◦ Regarding hardware<br />      (see Enterprise IT below for<br />      details on server management)</pre><br /> |
 
 
 <br />
